@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Nikita%20Parmar&fontSize=38&fontAlignY=55" />
+</p>
 <h1 align="center">Hi 👋, I'm Nikita Parmar</h1>
 <h3 align="center">Entry-Level Software Engineer | Python | Machine Learning | Computer Vision</h3>
 
